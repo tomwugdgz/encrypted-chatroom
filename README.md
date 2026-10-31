@@ -8,6 +8,7 @@
 > 真要保密，请用有密钥的成熟方案（Signal 协议、age、GPG 等）。
 
 ---
+![Uploading image.png…]()
 
 ## 一、聊天室链接
 
