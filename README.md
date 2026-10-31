@@ -8,7 +8,8 @@
 > 真要保密，请用有密钥的成熟方案（Signal 协议、age、GPG 等）。
 
 ---
-![Uploading image.png…]()
+<img width="1293" height="1317" alt="image" src="https://github.com/user-attachments/assets/67a13e3a-cbcc-4d22-8d7f-488a8e5b913c" />
+
 
 ## 一、聊天室链接
 
